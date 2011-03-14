@@ -1,6 +1,3 @@
-/**
- * 
- */
 package edu.mills.cs180.test;
 
 /**
