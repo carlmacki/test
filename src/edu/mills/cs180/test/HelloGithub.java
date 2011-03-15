@@ -9,7 +9,7 @@ package edu.mills.cs180.test;
  * @author kfeeney
  */
 public class HelloGithub {
-	static final int NUM_MEMBERS = 3;
+	static final int NUM_MEMBERS = 3; //increment this number when you add yourself
 
 	/**
 	 * Prints the number of members and their names.
