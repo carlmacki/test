@@ -4,6 +4,8 @@ package edu.mills.cs180.test;
  * Simple application to print the number of members and their names.  This
  * exists to give us practice with github.
  * 
+ * Added comment by Ellen.
+ * 
  * @author espertus
  * @author aforn
  * @author kfeeney
