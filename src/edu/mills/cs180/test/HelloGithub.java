@@ -30,6 +30,5 @@ public class HelloGithub {
 		System.out.println("yoyomyo");
 		System.out.println("fpadojino");
 		System.out.println("sthompso");
-		
 	}
 }
