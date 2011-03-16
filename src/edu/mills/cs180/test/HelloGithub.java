@@ -8,9 +8,10 @@ package edu.mills.cs180.test;
  * @author aforn
  * @author kfeeney
  * @author yoyomyo
+ * @author sthompso
  */
 public class HelloGithub {
-	static final int NUM_MEMBERS = 5; //increment this number when you add yourself
+	static final int NUM_MEMBERS = 6; //increment this number when you add yourself
 
 	/**
 	 * Prints the number of members and their names.
@@ -26,6 +27,7 @@ public class HelloGithub {
 		System.out.println("kfeeney");
 		System.out.println("yoyomyo");
 		System.out.println("fpadojino");
+		System.out.println("sthompso");
 		
 	}
 }
